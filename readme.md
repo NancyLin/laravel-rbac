@@ -116,9 +116,11 @@ Route::group(['middleware' => ['auth']], function(){
 - 拷贝 ==resources\views\layouts== 文件夹，里面包含相关模块的通用模块的view模板文件。
 
 ** （8）界面如下：**
-![用户管理](http://图片网址)
-![角色管理](http://图片网址)
-![权限管理](http://图片网址)
+![用户管理](https://github.com/NancyLin/laravel-rbac/blob/master/user.png?raw=true)
+
+![角色管理](https://github.com/NancyLin/laravel-rbac/blob/master/role.png?raw=true)
+
+![权限管理](https://github.com/NancyLin/laravel-rbac/blob/master/permission.png?raw=true)
 
 
 
