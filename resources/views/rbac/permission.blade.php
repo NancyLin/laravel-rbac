@@ -41,7 +41,7 @@
 
 	<!--新增修改角色模态框-->
 	<div class="modal fade" id="permission-edit-modal" data-backdrop="static" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-		<div class="modal-dailog modal-lg">
+		<div class="modal-dialog modal-lg">
 			<div class="modal-content" ms-controller="permission">
 				<div class="modal-header">
 					<button class="close" data-dismiss="modal" aria-label="Close">
@@ -103,7 +103,7 @@
 					</div><!--/.modal-footer-->
 				</form>
 			</div><!--/.modal-content-->
-		</div><!--/.modal-dailog-->
+		</div><!--/.modal-dialog-->
 	</div><!--/.modal fade-->
 	<!--/新增修改角色模态框-->
 	

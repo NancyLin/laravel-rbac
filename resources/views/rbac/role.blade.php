@@ -29,7 +29,7 @@
 
 	<!--新增修改角色模态框-->
 	<div class="modal fade" id="role-edit-modal" data-backdrop="static" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-		<div class="modal-dailog modal-lg">
+		<div class="modal-dialog modal-lg">
 			<div class="modal-content" ms-controller="role">
 				<div class="modal-header">
 					<button class="close" data-dismiss="modal" aria-label="Close">
@@ -69,13 +69,13 @@
 					</div><!--/.modal-footer-->
 				</form>
 			</div><!--/.modal-content-->
-		</div><!--/.modal-dailog-->
+		</div><!--/.modal-dialog-->
 	</div><!--/.modal fade-->
 	<!--/新增修改角色模态框-->
 	
 	<!--设置用户权限模态框-->
 	<div class="modal fade" id="role-permission-modal" data-backdrop="static" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-		<div class="modal-dailog modal-lg">
+		<div class="modal-dialog modal-lg">
 			<div class="modal-content">
 				<div class="modal-header">
 					<button class="close" data-dismiss="modal" aria-label="Close">
@@ -93,7 +93,7 @@
 					<button type="button" id="permission-tree-save" class="btn btn-primary">保存</button>
 				</div><!--/.modal-footer-->
 			</div><!--/.modal-content-->
-		</div><!--/.modal-dailog-->	
+		</div><!--/.modal-dialog-->	
 	</div><!--/.modal-->
 	<!--/设置用户权限模态框-->
 	
